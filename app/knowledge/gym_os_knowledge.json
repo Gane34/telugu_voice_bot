@@ -1,0 +1,28 @@
+{
+  "product": "Gym OS",
+  "description": "Gym management software for independent gyms and fitness centers.",
+  "pricing": {
+    "early_access_setup": "₹3,000"
+  },
+  "features": [
+    "member management",
+    "attendance management",
+    "payment tracking",
+    "member follow-ups"
+  ],
+  "target_customer": [
+    "gyms",
+    "fitness centers",
+    "independent gym owners"
+  ],
+  "verified_claims": {
+    "setup_fee": "₹3,000 early-access setup fee",
+    "demo": "Founder can provide a short demo",
+    "core_capabilities": [
+      "member management",
+      "attendance management",
+      "payment tracking",
+      "member follow-ups"
+    ]
+  }
+}
